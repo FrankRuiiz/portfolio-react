@@ -687,7 +687,7 @@ img {
 
 .header {
   position: relative;
-  background-image: url('/public/img/profile_bg_1.1-min.jpg');
+  background-image: url('./img/profile_bg_1.1-min.jpg');
   width: 100vw;
   max-width: 100%;
   height: 80vh;
