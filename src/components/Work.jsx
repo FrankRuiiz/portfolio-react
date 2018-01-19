@@ -9,7 +9,7 @@ const Work = () => {
             <img src="http://via.placeholder.com/350x250" alt="img" />
             <figcaption>
               <h2>
-                Example <span>Project</span>
+                Oscar <span>asdf</span>
               </h2>
               <a href="#">View More</a>
             </figcaption>
