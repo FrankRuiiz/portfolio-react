@@ -2,7 +2,7 @@ import React from 'react';
 
 const Hero = () => {
   return (
-    <div className="header header__paralax">
+    <div className="header header--paralax">
       <div className="header__overlay" />
       <div className="header__inner container">
         <div className="header__content">
