@@ -1,0 +1,36 @@
+{
+  "projects": [
+    {
+      "title": "tilte 1",
+      "description":
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc varius velit vel odio lacinia, nec accumsan magna fringilla. Phasellus egestas.",
+      "technologies": ["one", "two", "three", "four"],
+      "image": "placeholder.png",
+      "id": "p1"
+    },
+    {
+      "title": "Title 2",
+      "description":
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc varius velit vel odio lacinia, nec accumsan magna fringilla. Phasellus egestas.",
+      "technologies": ["one", "two", "three", "four"],
+      "image": "placeholder.png",
+      "id": "p2"
+    },
+    {
+      "title": "Title 3",
+      "description":
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc varius velit vel odio lacinia, nec accumsan magna fringilla. Phasellus egestas.",
+      "technologies": ["one", "two", "three", "four"],
+      "image": "placeholder.png",
+      "id": "p3"
+    },
+    {
+      "title": "Title 4",
+      "description":
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc varius velit vel odio lacinia, nec accumsan magna fringilla. Phasellus egestas.",
+      "technologies": ["one", "two", "three", "four"],
+      "image": "placeholder.png",
+      "id": "p4"
+    }
+  ]
+}
