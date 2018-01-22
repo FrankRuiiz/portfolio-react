@@ -7,7 +7,7 @@ const ShowProjectThumb = props => {
       <figure className="work__column-overlay shadow">
         <img
           src={`${process.env.PUBLIC_URL}/img/${props.image}`}
-          alt={`Image for ${props.title}`}
+          alt={props.title}
         />
         <figcaption>
           <h2>{props.title}</h2>

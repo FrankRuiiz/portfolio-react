@@ -1,4 +1,5 @@
 import React from 'react';
+import { Element } from 'react-scroll';
 import Nav from './Nav';
 import Footer from './Footer';
 import ShowProjectThumb from './ShowProjectThumb';
@@ -9,7 +10,7 @@ import email_icon from '../img/email.svg';
 const Home = props => {
   return (
     <div>
-      <Nav />
+      <Nav home={true} />
       <div className="header header--paralax">
         <div className="header__overlay" />
         <div className="header__inner container">
@@ -26,14 +27,14 @@ const Home = props => {
           </div>
         </div>
       </div>
-      <div className="work container">
+      <Element name="work" className="work container">
         <div className="work__inner work__row">
           {props.projects.map(project => (
             <ShowProjectThumb key={project.id} {...project} />
           ))}
         </div>
-      </div>
-      <div className="about container">
+      </Element>
+      <Element name="about" className="about container">
         <div className="about__inner">
           <div className="about__left">
             <h2>About</h2>
@@ -73,7 +74,7 @@ const Home = props => {
             </div>
           </div>
         </div>
-      </div>
+      </Element>
       <Footer />
     </div>
   );

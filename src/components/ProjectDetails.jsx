@@ -27,7 +27,9 @@ const ProjectDetails = props => {
               <h3>Summary</h3>
               <p>{project.description}</p>
               <h3>Tech Used</h3>
-              <ul>{project.technologies.map(tech => <li>{tech}</li>)}</ul>
+              <ul>
+                {project.technologies.map(tech => <li key={tech}>{tech}</li>)}
+              </ul>
             </div>
           </div>
         </div>

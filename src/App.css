@@ -477,6 +477,7 @@ body {
 a {
   text-decoration: none;
   color: #3d3d3d;
+  cursor: pointer;
 }
 
 img {
@@ -522,6 +523,9 @@ img {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
   height: 100%;
   padding-top: 5px;
 }
@@ -690,7 +694,7 @@ img {
   background-image: url('./img/profile_bg_1.1-min.jpg');
   width: 100vw;
   max-width: 100%;
-  height: 80vh;
+  height: 70vh;
   -webkit-filter: grayscale(0.9);
   filter: grayscale(0.9);
 }
@@ -801,7 +805,7 @@ img {
   padding: 2em;
   color: #fff;
   text-transform: uppercase;
-  font-size: 1.25em;
+  font-size: 1.15em;
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
 }
@@ -814,7 +818,7 @@ img {
   height: 100%;
 }
 .work__column figure figcaption > a {
-  z-index: 1000;
+  z-index: 5;
   text-indent: 200%;
   white-space: nowrap;
   font-size: 0;
