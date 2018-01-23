@@ -1,35 +1,35 @@
 {
   "projects": [
     {
-      "title": "tilte 1",
+      "title": "OrthoDTX",
       "description":
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc varius velit vel odio lacinia, nec accumsan magna fringilla. Phasellus egestas.",
       "technologies": ["one", "two", "three", "four"],
-      "image": "placeholder.png",
+      "image": "orthodtx.jpg",
       "id": "p1"
     },
     {
-      "title": "Title 2",
+      "title": "Via Saviene",
       "description":
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc varius velit vel odio lacinia, nec accumsan magna fringilla. Phasellus egestas.",
       "technologies": ["one", "two", "three", "four"],
-      "image": "placeholder.png",
+      "image": "viasaviene.jpg",
       "id": "p2"
     },
     {
-      "title": "Title 3",
+      "title": "WindwardWay",
       "description":
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc varius velit vel odio lacinia, nec accumsan magna fringilla. Phasellus egestas.",
       "technologies": ["one", "two", "three", "four"],
-      "image": "placeholder.png",
+      "image": "windwardway.jpg",
       "id": "p3"
     },
     {
-      "title": "Title 4",
+      "title": "InStyler",
       "description":
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc varius velit vel odio lacinia, nec accumsan magna fringilla. Phasellus egestas.",
       "technologies": ["one", "two", "three", "four"],
-      "image": "placeholder.png",
+      "image": "instyler.jpg",
       "id": "p4"
     }
   ]
