@@ -3,8 +3,8 @@
     {
       "title": "OrthoDTX",
       "description":
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc varius velit vel odio lacinia, nec accumsan magna fringilla. Phasellus egestas.",
-      "technologies": ["one", "two", "three", "four"],
+        "This is a informational site ",
+      "technologies": ["WordPress", "PHP", "JavaScript/JQuery", "HTML", "SCSS/CSS", "Gulp"],
       "image": "orthodtx.jpg",
       "id": "p1"
     },
@@ -12,7 +12,7 @@
       "title": "Via Saviene",
       "description":
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc varius velit vel odio lacinia, nec accumsan magna fringilla. Phasellus egestas.",
-      "technologies": ["one", "two", "three", "four"],
+      "technologies": ["Shopify", "Liquid", "JavaScript/JQuery", "CSS", "Gulp", "Theme Kit"],
       "image": "viasaviene.jpg",
       "id": "p2"
     },
@@ -20,7 +20,7 @@
       "title": "WindwardWay",
       "description":
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc varius velit vel odio lacinia, nec accumsan magna fringilla. Phasellus egestas.",
-      "technologies": ["one", "two", "three", "four"],
+      "technologies": ["WordPress", "PHP", "HTML", "CSS", "JavaScript/JQuery"],
       "image": "windwardway.jpg",
       "id": "p3"
     },
@@ -28,7 +28,7 @@
       "title": "InStyler",
       "description":
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc varius velit vel odio lacinia, nec accumsan magna fringilla. Phasellus egestas.",
-      "technologies": ["one", "two", "three", "four"],
+      "technologies": ["Shopify", "Liquid", "JavaScript/JQuery", "CSS", "Gulp", "Theme Kit"],
       "image": "instyler.jpg",
       "id": "p4"
     }
