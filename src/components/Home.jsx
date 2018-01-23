@@ -17,7 +17,7 @@ const Home = props => {
           <div className="header__content">
             <h1>
               I'm Frank Ruiz, a Frontend Developer from Southern California. I
-              help businesses achieveh their goals by converting concepts into
+              help businesses achieve their goals by converting concepts into
               code.
             </h1>
             <div className="header__work-line">
@@ -39,21 +39,20 @@ const Home = props => {
           <div className="about__left">
             <h2>About</h2>
             <p>
-              I am currently working with a digital markting company named
-              530Medialab located in Cypress, CA. Our team builds and maintains
-              sites on a variety of platforms such as: Magento 1-2,
-              Wordpress/WooCommerce, and Shopify. Aside from working witin these
-              environments, some of my technical skills include: PHP, Liquid,
-              JavaScript/JQuery/React, HTML/5 and CSS/SCSS and more!
+              Hey! Thanks for checking out my site. Currently I am a Frontend
+              Developer at 530Medialab. My team and I build and maintain sites
+              on a variety of platforms such as: Magento 1-2,
+              Wordpress/WooCommerce, and Shopify. When I'm not at work or
+              leaning a new skill I like to be active outdoors on a nice hike or
+              pumping some iron at the gym!
             </p>
           </div>
           <div className="about__right">
             <div className="right__inner">
               <h2>Contact</h2>
               <p>
-                Currently I am seeking other opportunities to work with React.js
-                based projects. Please feel free to contact me below with
-                details. Thanks!
+                Feel free to contact me below if you would like to discuss any
+                opportunites.
               </p>
               <p>
                 <a href="mailto:frank.ruiz.limon@gmail.com">

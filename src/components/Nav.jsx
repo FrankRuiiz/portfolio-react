@@ -40,8 +40,6 @@ class Nav extends Component {
   };
 
   render() {
-    let showHomeLinks;
-
     return (
       <div className="nav__wrapper">
         <div className="nav shadow">
