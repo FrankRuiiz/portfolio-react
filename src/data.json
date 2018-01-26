@@ -2,9 +2,15 @@
   "projects": [
     {
       "title": "OrthoDTX",
-      "description":
-        "This is a informational site ",
-      "technologies": ["WordPress", "PHP", "JavaScript/JQuery", "HTML", "SCSS/CSS", "Gulp"],
+      "description": "This is a informational site ",
+      "technologies": [
+        "WordPress",
+        "PHP",
+        "JavaScript/JQuery",
+        "HTML",
+        "SCSS/CSS",
+        "Gulp"
+      ],
       "image": "orthodtx.jpg",
       "id": "p1"
     },
@@ -12,7 +18,14 @@
       "title": "Via Saviene",
       "description":
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc varius velit vel odio lacinia, nec accumsan magna fringilla. Phasellus egestas.",
-      "technologies": ["Shopify", "Liquid", "JavaScript/JQuery", "CSS", "Gulp", "Theme Kit"],
+      "technologies": [
+        "Shopify",
+        "Liquid",
+        "JavaScript/JQuery",
+        "CSS",
+        "Gulp",
+        "Theme Kit"
+      ],
       "image": "viasaviene.jpg",
       "id": "p2"
     },
@@ -28,7 +41,14 @@
       "title": "InStyler",
       "description":
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc varius velit vel odio lacinia, nec accumsan magna fringilla. Phasellus egestas.",
-      "technologies": ["Shopify", "Liquid", "JavaScript/JQuery", "CSS", "Gulp", "Theme Kit"],
+      "technologies": [
+        "Shopify",
+        "Liquid",
+        "JavaScript/JQuery",
+        "CSS",
+        "Gulp",
+        "Theme Kit"
+      ],
       "image": "instyler.jpg",
       "id": "p4"
     }
