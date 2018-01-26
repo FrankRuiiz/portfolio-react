@@ -695,11 +695,12 @@ img {
   width: 100vw;
   max-width: 100%;
   height: calc(100vh - 60px);
+  min-height: 400px;
   -webkit-filter: grayscale(0.9);
   filter: grayscale(0.85);
 }
 .header--paralax {
-  background-attachment: fixed;
+  background-attachment: scroll;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -760,6 +761,9 @@ img {
 }
 
 @media screen and (min-width: 992px) {
+  .header--paralax {
+    background-attachment: fixed;
+  }
   .header__content h1 {
     font-size: 30px;
   }
