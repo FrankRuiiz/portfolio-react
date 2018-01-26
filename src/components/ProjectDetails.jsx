@@ -13,12 +13,13 @@ const ProjectDetails = props => {
       <div className="project-detail">
         <div className="container project-detail__inner">
           <p>
-            <Link to="/">&laquo; Back</Link>
+            <Link className="link--back" to="/">Back</Link>
           </p>
           <h1>{project.title}</h1>
           <div className="project-detail__content">
             <div className="project-detail__image">
               <img
+                className="shadow"
                 src={`${process.env.PUBLIC_URL}/img/${project.image}`}
                 alt={project.title}
               />

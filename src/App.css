@@ -973,11 +973,21 @@ img {
   }
 }
 
+.project-detail {
+  margin: 40px 0 0 0;
+}
+
 .project-detail__inner {
   margin-bottom: 50px;
 }
 
+.project-detail .link--back::before {
+    content: '\25c4';
+    padding-right: 0.5em;
+}
+
 .project-detail__content {
+  margin-top: 50px;
   min-height: 60vh;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -992,9 +1002,11 @@ img {
 .project-detail__image,
 .project-detail__text {
   width: 100%;
+  align-self: flex-start;
 }
 
 .project-detail__image {
+  font-size: 0;
   text-align: center;
 }
 .project-detail__image img {
@@ -1011,7 +1023,7 @@ img {
     width: 50%;
   }
   .project-detail__text {
-    padding: 25px;
+    padding: 0 0 0 35px;
   }
 }
 
