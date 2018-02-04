@@ -34,7 +34,13 @@ class ProjectDetails extends React.Component {
               <div className="project-detail__text">
                 <h3>Summary</h3>
                 <p>{project.description}</p>
-                <h3>Tech Used</h3>
+                <h5>
+                  Link:{' '}
+                  <a href={project.link} target="_blank">
+                    {project.link}
+                  </a>
+                </h5>
+                <h3>Technologies</h3>
                 <ul>
                   {project.technologies.map(tech => <li key={tech}>{tech}</li>)}
                 </ul>
