@@ -50,7 +50,11 @@ class Nav extends Component {
             {this.showNavLinks(this.props)}
             <ul className="nav__column nav__resume">
               <li className="menu__item">
-                <a href="" className="link-button">
+                <a
+                  href="https://drive.google.com/file/d/1trNzntBaIj_c2uAHH48sY4Uq7ijfjhnt/view?usp=sharing"
+                  target="_blank"
+                  className="link-button"
+                >
                   <span className="link-button__label">Résumé</span>
                 </a>
               </li>
