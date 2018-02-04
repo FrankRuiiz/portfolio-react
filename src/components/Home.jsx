@@ -40,19 +40,18 @@ const Home = props => {
             <h2>About</h2>
             <p>
               Hey! Thanks for checking out my site. Currently I am a Frontend
-              Developer at 530Medialab. My team and I build and maintain sites
-              on a variety of platforms such as: Magento 1-2,
+              Developer at 530Medialab. My team and I build and maintain custom
+              sites on a variety of platforms such as: Magento 1-2,
               Wordpress/WooCommerce, and Shopify. When I'm not at work or
-              leaning a new skill I like to be active outdoors on a nice hike or
-              pumping some iron at the gym!
+              learning a new skill I like to be active outdoors on a nice hike
+              or working out at my local gym.
             </p>
           </div>
           <div className="about__right">
             <div className="right__inner">
               <h2>Contact</h2>
               <p>
-                Feel free to contact me below if you would like to discuss any
-                opportunites.
+                If you'd like to get in touch, feel free to contact me below.
               </p>
               <p>
                 <a href="mailto:frank.ruiz.limon@gmail.com">
