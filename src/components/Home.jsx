@@ -16,9 +16,8 @@ const Home = props => {
         <div className="header__inner container">
           <div className="header__content">
             <h1>
-              I'm Frank Ruiz, a Frontend Developer from Southern California. I
-              help businesses achieve their goals by converting concepts into
-              code.
+              I'm Frank Ruiz, a Web Developer from Southern California with a
+              focus on Frontend technologies!
             </h1>
             <div className="header__work-line">
               <div className="header__vertical-line" />

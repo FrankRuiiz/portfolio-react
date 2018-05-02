@@ -51,7 +51,7 @@ class Nav extends Component {
             <ul className="nav__column nav__resume">
               <li className="menu__item">
                 <a
-                  href="https://drive.google.com/file/d/1trNzntBaIj_c2uAHH48sY4Uq7ijfjhnt/view?usp=sharing"
+                  href="https://docs.google.com/document/d/1RxiqDdrqwIuavDEGifUxDJCRi77nvch5nyZ7xA5uDTI/edit?usp=sharing"
                   target="_blank"
                   className="link-button"
                 >
