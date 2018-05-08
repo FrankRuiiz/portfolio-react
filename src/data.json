@@ -2,8 +2,7 @@
   "projects": [
     {
       "title": "OrthoDTX",
-      "description":
-        "OrthoDTX is a website where teenagers and young adults can get more information about dental care.  Features include:  glossary and \"word cloud\" search, provider locator and social media feeds for Facebook, Instagram, Youtube, and Twitter.",
+      "description": "OrthoDTX is a website where teenagers and young adults can get more information about dental care.  Features include:  glossary and \"word cloud\" search, provider locator and social media feeds for Facebook, Instagram, Youtube, and Twitter.",
       "technologies": [
         "WordPress",
         "PHP",
@@ -13,13 +12,12 @@
         "Gulp"
       ],
       "image": "orthodtx.jpg",
-      "link": "https://www.orthodtx.com",
+      "link": "",
       "id": "p1"
     },
     {
       "title": "Via Saviene",
-      "description":
-        "Via Saviene is an ecommerce shop that sells women's jewlery.  Features include: full page scroll home and about page, detailed collection page (animations, swatches, quick shop, masonry grid) and custom look books using Shopify's blog feature along with custom metafields.",
+      "description": "Via Saviene is an ecommerce shop that sells women's jewlery.  Features include: full page scroll home and about page, detailed collection page (animations, swatches, quick shop, masonry grid) and custom look books using Shopify's blog feature along with custom metafields.",
       "technologies": [
         "Shopify",
         "Liquid",
@@ -34,17 +32,21 @@
     },
     {
       "title": "WindwardWay",
-      "description":
-        "WindwardWay is an organization that helps individuals recover from addiction. Features include: hero slider, informational sections, and a contact form to request more information.",
-      "technologies": ["WordPress", "PHP", "HTML", "CSS", "JavaScript/JQuery"],
+      "description": "WindwardWay is an organization that helps individuals recover from addiction. Features include: hero slider, informational sections, and a contact form to request more information.",
+      "technologies": [
+        "WordPress",
+        "PHP",
+        "HTML",
+        "CSS",
+        "JavaScript/JQuery"
+      ],
       "image": "windwardway.jpg",
       "link": "https://windwardway.com/welcome/",
       "id": "p3"
     },
     {
       "title": "InStyler",
-      "description":
-        "Instyler is an ecommerce shop that sells women's hair products and tools. Features include: custom blog setup (different template for each blog type), dynamic & reusable landing page templates, Power Reviews integration and custom product/collection pages.",
+      "description": "Instyler is an ecommerce shop that sells women's hair products and tools. Features include: custom blog setup (different template for each blog type), dynamic & reusable landing page templates, Power Reviews integration and custom product/collection pages.",
       "technologies": [
         "Shopify",
         "Liquid",
