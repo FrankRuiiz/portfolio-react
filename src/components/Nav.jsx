@@ -53,6 +53,7 @@ class Nav extends Component {
                 <a
                   href="https://docs.google.com/document/d/1RxiqDdrqwIuavDEGifUxDJCRi77nvch5nyZ7xA5uDTI/edit?usp=sharing"
                   target="_blank"
+                  rel="noopener noreferrer"
                   className="link-button"
                 >
                   <span className="link-button__label">Résumé</span>
