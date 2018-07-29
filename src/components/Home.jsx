@@ -16,8 +16,7 @@ const Home = props => {
         <div className="header__inner container">
           <div className="header__content">
             <h1>
-              I'm Frank Ruiz, a Web Developer from Southern California with a
-              focus on Frontend technologies!
+              Frank Ruiz - Frontend Developer
             </h1>
             <div className="header__work-line">
               <div className="header__vertical-line" />
@@ -38,11 +37,11 @@ const Home = props => {
           <div className="about__left">
             <h2>About</h2>
             <p>
-              Hey! Thanks for checking out my site. Currently I am a Frontend
+              Hey! Thanks for checking out my site. I am a Frontend
               Developer at 530Medialab. My team and I build and maintain custom
-              sites on a variety of platforms such as: Magento 1-2,
-              Wordpress/WooCommerce, and Shopify. When I'm not at work or
-              learning a new skill I like to be active outdoors on a nice hike
+              websites on a variety of platforms such as: Magento 1-2,
+              Wordpress/WooCommerce, and Shopify. When I'm not working or
+              learning a new technology I like to be active outdoors on a nice hike
               or working out at my local gym.
             </p>
           </div>

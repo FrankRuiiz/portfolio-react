@@ -1,6 +1,36 @@
 {
   "projects": [
     {
+      "title": "NewAir",
+      "description": "NewAir is an ecommerce company that sells compact appliances such as wine fridges, ice makers, and fans.  We migrated their store over to Shopify and built a custom theme using Shopify's Slate theme scaffold and command line tool.",
+      "technologies": [
+        "Slate",
+        "Liquid",
+        "JavaScript/jQuery",
+        "SCSS/CSS",
+        "HTML"
+      ],
+      "image": "newair.jpg",
+      "link": "https://www.newair.com",
+      "id": "newair"
+    },
+    {
+      "title": "Century Snacks",
+      "description": "Century Snacks wanted to add a modern look and feel to their flagship website, as well as the ability to easily update their content.  With this in mind, we moved them over to Wordpress utilizing custom fields, and also added WooCommerce to display their products.",
+      "technologies": [
+        "PHP",
+        "JavaScript/jQuery",
+        "WordPress",
+        "WooCommerce",
+        "Gulp",
+        "SCSS/CSS",
+        "HTML"
+      ],
+      "image": "centurysnacks.jpg",
+      "link": "http://www.centurysnacks.com",
+      "id": "century-snacks"
+    },
+    {
       "title": "OrthoDTX",
       "description": "OrthoDTX is a website where teenagers and young adults can get more information about dental care.  Features include:  glossary and \"word cloud\" search, provider locator and social media feeds for Facebook, Instagram, Youtube, and Twitter.",
       "technologies": [
@@ -13,7 +43,7 @@
       ],
       "image": "orthodtx.jpg",
       "link": "",
-      "id": "p1"
+      "id": "orthodtx"
     },
     {
       "title": "Via Saviene",
@@ -28,7 +58,7 @@
       ],
       "image": "viasaviene.jpg",
       "link": "https://viasaviene.com/",
-      "id": "p2"
+      "id": "via-saviene"
     },
     {
       "title": "WindwardWay",
@@ -42,7 +72,7 @@
       ],
       "image": "windwardway.jpg",
       "link": "https://windwardway.com/welcome/",
-      "id": "p3"
+      "id": "windward-way"
     },
     {
       "title": "InStyler",
@@ -57,7 +87,7 @@
       ],
       "image": "instyler.jpg",
       "link": "https://www.instyler.com/",
-      "id": "p4"
+      "id": "instyler"
     }
   ]
 }

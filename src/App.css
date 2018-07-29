@@ -471,7 +471,7 @@ body * {
 
 body {
   color: #3d3d3d;
-  background: #d3d3d3;
+  background: #ffffff;
 }
 
 a {
@@ -790,13 +790,13 @@ img {
 .work__column {
   position: relative;
   width: 100%;
-  padding: 0 0.625rem 1rem;
+  padding: 0 0.625rem 1.25rem;
 }
 .work__column figure {
   position: relative;
   overflow: hidden;
   margin: 0;
-  max-width: 480px;
+  max-width: 490px;
   width: 100%;
   background: #3085a3;
   text-align: center;
@@ -916,11 +916,11 @@ img {
   }
 }
 
-@media screen and (min-width: 992px) {
+/* @media screen and (min-width: 992px) {
   .work__column {
     width: 33.33333333%;
   }
-}
+} */
 
 .about {
   margin-top: 50px;
