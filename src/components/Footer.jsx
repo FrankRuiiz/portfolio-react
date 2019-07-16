@@ -7,7 +7,7 @@ const Footer = () => {
     <div className="footer">
       <div className="footer__inner container">
         <div className="footer__left">
-          <span>&copy; Frank Ruiz - 2018</span>
+          <span>&copy; Frank Ruiz - 2019</span>
         </div>
         <div className="footer__right">
           <span className="icon">
